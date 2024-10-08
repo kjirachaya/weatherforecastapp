@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">WeatherForecastApp</string>
+  <string name="get_weather_forecast_by_city_name">Get weather forecast\nby city name</string>
+  <string name="enter_city">Enter City</string>
+  <string name="forecast">Forecast</string>
+  <string name="error">Error: %s</string>
+  <string name="temperature_celsius">%s°C</string>
+  <string name="humidity">Humidity</string>
+  <string name="wind_speed_deg">Wind Speed/Deg</string>
+  <string name="pressure">Pressure</string>
+  <string name="clouds">Clouds</string>
+  <string name="feels_like">Feels Like</string>
+  <string name="visibility">Visibility</string>
+  <string name="visibility_km">%1$s km</string>
+  <string name="temperature_min_max">Temperature min/max</string>
+</resources>
